@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+A collaborative project from Masai school.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GEM GARDEN.
 
-## Available Scripts
+Deploy link :-https://gem-garden-jewelry-store.vercel.app/
 
-In the project directory, you can run:
+First of all, I want to thank the Masai school for giving me this opportunity to work on a collaborative project and enhance my coding skills. we learned a lot while working on this project. we failed so many times and we never give up, in the last we finally made our Project successfully.
 
-### `npm start`
+Team-Members.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Amrit chandra kumar
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Saurav Chavan.
 
-### `npm test`
+Rishita Mukherjee.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Srudhi P G.
 
-### `npm run build`
+Kratika Jharbade.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+In the construct week.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This is our Third collaborative project from the Masai school, and we got only 1 week to complete it, so it was a challenging journey for us. we faced a lot of challenges because some things are new to us and we have to complete it on time, so we first decide to study our website and then divide our work. we learned a lot while working together, we failed a lot of times but we never give up, we used to help each other solve the problems of our project, and in the last, we finally made our project successfully.
 
-### `npm run eject`
+Description of Project.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Gem Garden is online Jewelary website where you can buy the products of your chioces online.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Images of our project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Homepage:-
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This is the homepage of our Project.
 
-## Learn More
+![Screenshot 2023-12-19 212047](https://github.com/Amritchandra/Gem-Garden-Project/assets/136235545/10c180bf-59ea-4107-b9cc-742c49eb2145)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Login or signup page:-
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot 2023-12-19 212252](https://github.com/Amritchandra/Gem-Garden-Project/assets/136235545/7aedff0e-eb3e-4a75-8c9b-78e40ee18547)
 
-### Code Splitting
+![Screenshot 2023-12-19 212330](https://github.com/Amritchandra/Gem-Garden-Project/assets/136235545/aed799da-78b3-409b-9c71-53bef1a37b94)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Product page:-
 
-### Analyzing the Bundle Size
+![Screenshot 2023-12-19 212852](https://github.com/Amritchandra/Gem-Garden-Project/assets/136235545/2aed9488-ceaf-43be-91e9-51e7736da8f3)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+Product details page:-
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Screenshot 2023-12-19 212932](https://github.com/Amritchandra/Gem-Garden-Project/assets/136235545/acd99e72-6054-4af1-b700-27ed0e686ffd)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Checkout page:-
 
-### Deployment
+![Screenshot 2023-12-19 213015](https://github.com/Amritchandra/Gem-Garden-Project/assets/136235545/1644a56c-9198-4112-aa22-8b8fc4550eb9)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+Payment successful page:-
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This is our payment page after placing an order, the user will have some options for payment. e.g cash on delivery, debit/credit card, etc.
+
+![Screenshot 2023-12-19 213102](https://github.com/Amritchandra/Gem-Garden-Project/assets/136235545/f2f0e215-d6d2-4b64-8767-571f40defc12)
+
+
+Collaboration tools.
+
+Git and Github.
+
+Git: Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows Github: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its features. We all became proficient in reading the code of team members. and we learned How to work and communicate with a team. and how to keep motivated each other throughout the problems.
+
+At last, I would like to thank our mentors and my team members for their support & guidance during the project
